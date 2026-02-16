@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Ananya 👋
 
-<!--
-**ananyaj634-tech/ananyaj634-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA (Honours with Research) Student  
+🤖 Interested in AI, ML & Product Management  
+🚀 Building real-world AI applications  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Python (Beginner level)
+- Machine Learning
+- Agentic and Generative AI
+- SQL & Java(Beginner level)
+- Excel
+- Power BI
